@@ -14,7 +14,7 @@ const ExerciseCard = (props) => (
         <strong>Date:</strong> {props.exercise.date.substring(0, 10)}
       </p>
       <div className="mt-auto d-flex justify-content-between">
-        <Link className="btn btn-outline-success me-3" to={'/edit/' + props.exercise._id}>
+        <Link className="btn btn-outline-success me-3" to={'/app/edit/' + props.exercise._id}>
           Edit
         </Link>
         <button
