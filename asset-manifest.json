@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/finalproject/static/css/main.4b9ea24c.css",
+    "main.js": "/finalproject/static/js/main.56247ad5.js",
+    "static/media/hero2.jpg": "/finalproject/static/media/hero2.d0d00ac1e3142ba4f55a.jpg",
+    "static/media/logo1.png": "/finalproject/static/media/logo1.27c88e57bd412b34451a.png",
+    "static/media/gym.png": "/finalproject/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/finalproject/index.html",
+    "main.4b9ea24c.css.map": "/finalproject/static/css/main.4b9ea24c.css.map",
+    "main.56247ad5.js.map": "/finalproject/static/js/main.56247ad5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b9ea24c.css",
+    "static/js/main.56247ad5.js"
+  ]
+}
